@@ -2,9 +2,9 @@ name: GOTDict
 
 on:
   push:
-    branches: [ master ]
+    branches: [ pt-br ]
   pull_request:
-    branches: [ master ]
+    branches: [ pt-br ]
 
 jobs:
   build:
